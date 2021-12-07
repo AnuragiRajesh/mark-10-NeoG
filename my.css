@@ -1,0 +1,90 @@
+
+
+
+  html {
+  /* background-color: #7c3aed; */
+  color: black;
+  height: 100%;
+  
+}
+  
+  
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    margin: 4rem auto 7rem;
+    text-align: center;
+    font-size: 1.75rem;
+}
+.heading {
+    color: green
+}
+
+
+
+h1 {
+    display: block;
+
+    color: black;
+    margin-bottom: 1rem;
+
+    
+
+}
+
+.description {
+    margin: auto;
+    font-weight: 100;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+.input {
+    
+    border-radius: 0.5rem;
+    border-color: green;
+    padding: 0.6rem;
+    width: 15rem;
+    display: block;
+    margin: auto;
+
+    
+    
+    
+}
+label {
+    padding: 0.5rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#check-button {
+    text-align: center;
+    background-color: rgb(80, 209, 101);
+    width: 10%;
+    margin: auto;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    border-radius: 5px;
+    /* font-size: 2rem; */
+    height: 2rem; 
+    
+
+
+}
+
+.change-table caption {
+    margin: 1rem auto;
+    font-size: x-large;
+    font-weight: 500;
+    font-weight: bold;
+  }
+  
+  th,
+  td {
+    border: 1.2px solid green;
+    width: 0%;
+    padding: 0.5rem;
+  }
